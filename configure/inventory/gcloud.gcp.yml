@@ -1,0 +1,6 @@
+plugin: gcp_compute
+projects:
+  - fluffy-kitty
+filters:
+auth_kind: serviceaccount
+service_account_file: /home/vagrant/.config/gcloud/deploy-fluffy-kitty.json

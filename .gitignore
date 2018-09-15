@@ -1,0 +1,12 @@
+.envrc
+
+*.log
+*.retry
+*.tfstate*
+
+
+.vagrant/
+
+configure/vault-password.txt
+configure/.artifacts/
+infrastructure/.terraform
